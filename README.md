@@ -7,11 +7,14 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-3.0+-38B2AC?logo=tailwind-css" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/UI-Cyberpunk%20Theme-purple" alt="Cyberpunk Theme">
+  
 </div>
 
 <div align="center">
   <p><em>🌌 Advanced Mission Control System - A futuristic, cyberpunk-themed task management application</em></p>
-
+<a href="https://cyberpunktodolist.netlify.app/">
+  <img src="https://i.postimg.cc/02MPf4zG/3d-rendered-the-cyberpunk-logo-using-blender-v0-khopj82wqee91-removebg-preview.png" width="350">
+</a>
 </div>
 
 ---
