@@ -12,6 +12,7 @@
 
 <div align="center">
   <p><em>🌌 Advanced Mission Control System - A futuristic, cyberpunk-themed task management application</em></p>
+  [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-success?style=for-the-badge)](https://cyberpunktodolist.netlify.app/)
 <a href="https://cyberpunktodolist.netlify.app/">
   <img src="https://i.postimg.cc/02MPf4zG/3d-rendered-the-cyberpunk-logo-using-blender-v0-khopj82wqee91-removebg-preview.png" width="350">
 </a>
